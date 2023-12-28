@@ -522,7 +522,23 @@
             {
                 "language": "dune",
                 "path": "./snippets/ocaml/dune.json"
-            }
+            },
+            {
+                "language": "php",
+                "path": "./snippets/frameworks/laravel/blade.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/frameworks/laravel/helpers.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/frameworks/laravel/livewire.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/frameworks/laravel/snippets.json"
+            },
         ]
     }
 }
